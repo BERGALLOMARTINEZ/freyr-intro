@@ -13,6 +13,9 @@ footer.appendChild(copyright);
 //  skills 
 
 const skills = [
+    
+    "Graphic Desing",
+    "Web Development",
     "HTML",
     "CSS",
     "JavaScript",   
